@@ -1,6 +1,8 @@
 # Arduino PE44820
 An Arduino library to control a single digital phase shifter <b>[PE44820](https://www.psemi.com/products/rf-phase-amplitude-control/phase-shifters/pe44820)</b> from <b>Peregrine Semiconductor (PSemi)</b>. The library requires only normal IOs feature (without External Interrupts) to work!
 
+![PE44820](docs/0.png)
+
 # Installation
 You can either install this library by using Arduino .ZIP Library import feature or cloning directly into your Arduino Library folder.
 
