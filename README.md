@@ -29,7 +29,7 @@ git clone git@github.com:nguyenmanhthao996tn/Arduino_PE44820.git
 
 # Hardware Setup
 
-To control 1 Phase Shifter in Serial mode, it requires 4 wire:
+To control 1 Phase Shifter in Serial mode, it requires 4 wires:
 - CLK
 - LE
 - SI
