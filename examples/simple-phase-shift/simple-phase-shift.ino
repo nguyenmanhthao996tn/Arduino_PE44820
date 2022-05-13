@@ -1,7 +1,7 @@
 /**
  * @file simple-phase-shift.ino
  * @author nguyenmanhthao996tn (manhthao.spm@gmail.com)
- * @brief 
+ * @brief This sketch demonstrates how to use Arduino_PE44820 library to control the phase shifter.
  * @version 1.0.0
  * @date 2022-05-13
  * 
